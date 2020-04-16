@@ -7,3 +7,5 @@
 
 5 line
 >>>>>>> Stashed changes
+
+11 line
